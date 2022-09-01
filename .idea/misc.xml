@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.11828774062816616" />
+        <entry key="app/src/main/res/drawable/circle_yellow.xml" value="0.1055" />
+        <entry key="app/src/main/res/drawable/ic_back.xml" value="0.1055" />
+        <entry key="app/src/main/res/drawable/ic_evacuation.xml" value="0.1005" />
+        <entry key="app/src/main/res/drawable/radio_flat_selected.xml" value="0.1055" />
+        <entry key="app/src/main/res/drawable/radio_regular.xml" value="0.1055" />
+        <entry key="app/src/main/res/drawable/radio_selector.xml" value="0.1055" />
+        <entry key="app/src/main/res/drawable/tooltip_bg.xml" value="0.1055" />
+        <entry key="app/src/main/res/drawable/tooltip_ic_arrow_down.xml" value="0.1851432495117188" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_appointment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.27669219970703113" />
+        <entry key="app/src/main/res/layout/fragment_new_subscription.xml" value="0.33075474444484215" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_appointment_menu.xml" value="0.2553756713867188" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.2643178304036458" />
+        <entry key="app/src/main/res/layout/tooltip_security_deposit.xml" value="0.3522399902343751" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

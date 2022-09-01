@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/AppointmentFragment">
+
+    <fragment
+        android:id="@+id/AppointmentFragment"
+        android:name="com.emreerkahraman.enerjisaassignment.ui.appointment.AppointmentFragment"
+
+        tools:layout="@layout/fragment_appointment">
+
+
+        <action
+            android:id="@+id/action_AppointmentFragment_to_NewSubscriptionFragment"
+            app:destination="@id/NewSubscriptionFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/NewSubscriptionFragment"
+        android:name="com.emreerkahraman.enerjisaassignment.ui.newsubscription.NewSubscriptionFragment"
+
+        tools:layout="@layout/fragment_new_subscription">
+
+
+    </fragment>
+</navigation>

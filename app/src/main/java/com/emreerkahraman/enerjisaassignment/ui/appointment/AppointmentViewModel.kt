@@ -7,7 +7,6 @@ import com.emreerkahraman.enerjisaassignment.model.Menu
 import com.emreerkahraman.enerjisaassignment.model.Resource
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
-import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 

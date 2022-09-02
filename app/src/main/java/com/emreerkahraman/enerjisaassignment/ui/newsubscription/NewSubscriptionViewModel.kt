@@ -1,7 +1,6 @@
 package com.emreerkahraman.enerjisaassignment.ui.newsubscription
 
 import androidx.lifecycle.ViewModel
-import com.emreerkahraman.enerjisaassignment.ui.appointment.AppointmentViewState
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import javax.inject.Inject
